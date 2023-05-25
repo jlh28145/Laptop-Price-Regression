@@ -1,2 +1,2 @@
 # Laptop Price Regression
- 
+Created a regression model to predict laptop prices based off of specific features such as Brand, Screen Size, CPU, GPU, etc. Worked independently for 3 weeks to clean, analyze, visualize, and develop feature engineering for model. Pandas was used to clean the dataset from Kaggle - 15,612 values. Create 10+ new features based off of industry knowledge of computers. This project was completed using Pandas, Numpy, Sklearn, GridsearchCV, and Pickle. Final results included an optimized Extra Tree Regressor model with an 88% accuracy score. This model could be improved by outlier removal for the price column. Code for this project is found here.
